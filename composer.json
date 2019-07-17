@@ -1,6 +1,6 @@
 {
-    "name": "sanchescom/lumen-throttles-logins",
-    "description": "Lumen Throttles Logins.",
+    "name": "sanchescom/lumen-login-throttling",
+    "description": "Lumen login throttling.",
     "type": "library",
     "keywords": [
         "laravel",
@@ -8,7 +8,7 @@
         "auth",
         "login"
     ],
-    "homepage": "https://github.com/sanchescom/lumen-throttles-logins",
+    "homepage": "https://github.com/sanchescom/lumen-login-throttling",
     "license": "MIT",
     "authors": [
         {

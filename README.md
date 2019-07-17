@@ -6,7 +6,7 @@ Laravel Login Throttling for Lumen framework
 Require this package, with [Composer](https://getcomposer.org/), in the root directory of your project.
 
 ```
-composer require sanchescom/lumen-throttles-logins
+composer require sanchescom/lumen-login-throttling
 ```
 
 ## Usage
